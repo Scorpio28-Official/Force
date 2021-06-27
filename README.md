@@ -1,8 +1,9 @@
-# Force
+### Force
 Es una herramienta creada en python cuya funcion es crear diccionario para fuerza bruta.
 
-__🦂 INSTALACION 🦂__:
+###🦂 INSTALACION 🦂
 
+```
 * apt update && apt upgrade -y
 
 * pkg install python -y
@@ -18,9 +19,10 @@ __🦂 INSTALACION 🦂__:
 * chmod 777 Force.py
 
 * Python Force.py
+```
 
-__Informatic in Termux__
+### Informatic in Termux
 
 https://t.me/Informatic_in_Termux
 
-__By: Scorpio28__
+### By: Scorpio28
